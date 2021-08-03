@@ -1,1 +1,1 @@
-![cod cov](https://cdn.shopify.com/s/files/1/0496/1029/files/Freesample.svg?5153)
+![cod cov](https://www.w3.org/TR/PNG/iso_8859-1.txt)
