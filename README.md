@@ -1,1 +1,1 @@
-![cod cov](https://www.w3.org/TR/PNG/iso_8859-1.txt)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
